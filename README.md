@@ -70,6 +70,10 @@ This project addresses these challenges by integrating statistical models and ma
 <img width="911" height="412" alt="image" src="https://github.com/user-attachments/assets/01158c25-64a8-4c0d-82c8-452747343233" />
 <img width="911" height="413" alt="image" src="https://github.com/user-attachments/assets/f33a1afe-6c14-4329-907f-c9c4d50a5cda" />
 
+## Deployment
+<img width="523" height="248" alt="image" src="https://github.com/user-attachments/assets/8dd02a32-4675-4086-a688-63b257da7426" />
+<img width="484" height="493" alt="image" src="https://github.com/user-attachments/assets/0ddf322e-4e08-4799-a32f-8aad3a541ba0" />
+
 
 
 
